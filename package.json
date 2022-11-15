@@ -1,4 +1,25 @@
 {
+  "name": "tarako",
+  "description": "",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IttetsuSato/tarako.git"
+  },
+  "author": "ittetsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IttetsuSato/tarako/issues"
+  },
+  "homepage": "https://github.com/IttetsuSato/tarako#readme",
   "dependencies": {
     "firebase": "^9.14.0"
   }
