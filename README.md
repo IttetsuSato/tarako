@@ -1,1 +1,2 @@
-# tarako
+# ボツ
+webpackを使って生jsでゲーム作ろうとしたけど、htmlとcssとjsの行き来がめんどくさくてreact使いたくなった。
